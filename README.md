@@ -13,9 +13,8 @@
 + [Author Contact](#author-contact)
 
 ## Description
+<img src="./src/assets/sitePhoto.png">
 </p>A simple bakery website page that allows users to checkout patry producs the bakery offers and buy.
-
-
 
 ## Installation
 
@@ -43,7 +42,7 @@
 * None so far
 
 ## Back end Link
-<img src="./src/assets/sitePhoto.png">
+
 
 ## Contributing
 * Cotributions to the project are welcome. Fork repo to contribute.
