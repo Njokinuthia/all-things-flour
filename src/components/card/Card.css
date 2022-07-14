@@ -1,14 +1,21 @@
-/* .card{
-  height: 303px;
-
-}
-.cardImg{
+.card{
   height: 200px;
-} */
-.det{
-  height:100px ;
+}
+
+.curved{
+  border-radius: 50%, 50%, 0, 0;
+}
+
+.cardImg{
+  height: 150px;
+} 
+
+.details{
+  height:121px ;
 }
 
 .brown{
   color: rgba(81, 58, 12, 1)
+  /* color: red; */
+
 }

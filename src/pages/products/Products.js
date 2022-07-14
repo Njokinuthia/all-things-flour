@@ -26,7 +26,7 @@ const Products = () => {
       </div>
       {/* product card div */}
      
-      <div className=' w-5/6 h-5/6 grid grid-cols-1 mx-auto sm:grid-cols-2 md:grid-cols-4'>
+      <div className='w-5/6 h-5/6 mx-auto grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4'>
         {itemCard}
       </div>
     </div>
