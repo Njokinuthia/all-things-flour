@@ -12,7 +12,7 @@ module.exports = {
         xl: "1440px"
       },
       colors: {
-        caramel: 'D2AA5B',   
+        caramel: '#D2AA5B',   
         brightRed: 'hsl(12, 88% 59%)'
       }
     }
